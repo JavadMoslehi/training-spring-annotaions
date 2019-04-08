@@ -1,7 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d69f2055-774e-4aef-b4c4-4243da23482f" name="Default Changelist" comment="" />
+    <list default="true" id="d69f2055-774e-4aef-b4c4-4243da23482f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/me/spring/_1st_annotations/ReadMe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/me/spring/_2nd_beanscopes/ReadMe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springdemo.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/me/spring/annotations/Config.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/me/spring/_1st_annotations/Config.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/me/spring/annotations/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/me/spring/_1st_annotations/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/me/spring/annotations/Member.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/me/spring/_1st_annotations/Member.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/me/spring/annotations/MemberType.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/me/spring/_1st_annotations/MemberType.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/me/spring/beaninheritence/Child.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/me/spring/_5th_beaninheritence/Child.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/me/spring/beaninheritence/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/me/spring/_5th_beaninheritence/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/me/spring/beaninheritence/Parent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/me/spring/_5th_beaninheritence/Parent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/me/spring/beaninheritence/spring.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/me/spring/_5th_beaninheritence/spring.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/me/spring/beaninitstrategy/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/me/spring/_4th_beaninitstrategy/Animal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/me/spring/beaninitstrategy/Config.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/me/spring/_4th_beaninitstrategy/Config.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/me/spring/beaninitstrategy/Human.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/me/spring/_4th_beaninitstrategy/Human.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/me/spring/beaninitstrategy/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/me/spring/_4th_beaninitstrategy/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/me/spring/beanlifecycle/Config.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/me/spring/_6th_beanlifecycle/Config.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/me/spring/beanlifecycle/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/me/spring/_6th_beanlifecycle/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/me/spring/beanlifecycle/Member.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/me/spring/_6th_beanlifecycle/Member.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/me/spring/beanlifecycle/MemberService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/me/spring/_6th_beanlifecycle/MemberService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/me/spring/beanoverloading/ConfigA.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/me/spring/_3rd_beanoverloading/ConfigA.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/me/spring/beanoverloading/ConfigB.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/me/spring/_3rd_beanoverloading/ConfigB.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/me/spring/beanoverloading/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/me/spring/_3rd_beanoverloading/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/me/spring/beanoverloading/Member.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/me/spring/_3rd_beanoverloading/Member.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/me/spring/beanscopes/Config.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/me/spring/_2nd_beanscopes/Config.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/me/spring/beanscopes/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/me/spring/_2nd_beanscopes/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/me/spring/beanscopes/MyMessage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/me/spring/_2nd_beanscopes/MyMessage.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -13,38 +40,7 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/me/spring/beaninheritence/Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="94" selection-start-line="8" selection-start-column="94" selection-end-line="8" selection-end-column="94" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/me/spring/beaninheritence/Parent.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="493">
-              <caret line="29" selection-start-line="29" selection-end-line="29" />
-              <folding>
-                <element signature="e#145#146#0" expanded="true" />
-                <element signature="e#172#173#0" expanded="true" />
-                <element signature="e#212#213#0" expanded="true" />
-                <element signature="e#244#245#0" expanded="true" />
-                <element signature="e#279#280#0" expanded="true" />
-                <element signature="e#310#311#0" expanded="true" />
-                <element signature="e#358#359#0" expanded="true" />
-                <element signature="e#398#399#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/me/spring/beanlifecycle/Config.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/me/spring/_6th_beanlifecycle/Config.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="102">
               <caret line="6" column="14" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="14" />
@@ -55,11 +51,34 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/me/spring/beanlifecycle/Main.java">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/me/spring/_4th_beaninitstrategy/Animal.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" selection-start-line="8" selection-end-line="8" />
+            <state relative-caret-position="153">
+              <caret line="9" column="34" selection-start-line="9" selection-start-column="28" selection-end-line="9" selection-end-column="34" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#217#218#0" expanded="true" />
+                <element signature="e#277#278#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/me/spring/_6th_beanlifecycle/Member.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" column="10" selection-start-line="4" selection-start-column="10" selection-end-line="4" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/me/spring/_1st_annotations/Member.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -68,47 +87,65 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/me/spring/beanlifecycle/Member.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/me/spring/_6th_beanlifecycle/MemberService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="337">
+              <caret line="24" column="25" selection-start-line="24" selection-start-column="25" selection-end-line="24" selection-end-column="25" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/me/spring/_1st_annotations/MemberType.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" selection-start-line="7" selection-end-line="7" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/me/spring/_2nd_beanscopes/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" column="57" selection-start-line="7" selection-start-column="57" selection-end-line="7" selection-end-column="57" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/me/spring/_2nd_beanscopes/MyMessage.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="34">
-              <caret line="4" column="10" selection-start-line="4" selection-start-column="10" selection-end-line="4" selection-end-column="10" />
-              <folding>
-                <element signature="e#141#142#0" expanded="true" />
-                <element signature="e#168#169#0" expanded="true" />
-                <element signature="e#208#209#0" expanded="true" />
-                <element signature="e#240#241#0" expanded="true" />
-                <element signature="e#273#274#0" expanded="true" />
-                <element signature="e#302#303#0" expanded="true" />
-                <element signature="e#346#347#0" expanded="true" />
-                <element signature="e#382#383#0" expanded="true" />
-              </folding>
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/me/spring/beanlifecycle/MemberService.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/me/spring/_2nd_beanscopes/Config.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="196">
-              <caret line="28" column="62" selection-start-line="28" selection-start-column="57" selection-end-line="28" selection-end-column="62" />
+            <state relative-caret-position="204">
+              <caret line="12" column="9" selection-start-line="11" selection-end-line="12" selection-end-column="31" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#197#198#0" expanded="true" />
-                <element signature="e#233#234#0" expanded="true" />
-                <element signature="e#674#675#0" expanded="true" />
-                <element signature="e#691#692#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/me/spring/beaninheritence/spring.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="32" selection-start-line="8" selection-start-column="32" selection-end-line="8" selection-end-column="32" />
-            </state>
-          </provider>
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/me/spring/_2nd_beanscopes/ReadMe">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -121,6 +158,9 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -158,6 +198,12 @@
         <option value="$PROJECT_DIR$/src/main/java/com/me/spring/beanlifecycle/Config.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/me/spring/beanlifecycle/Main.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/me/spring/beanlifecycle/MemberService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/me/spring/annotations/ReadMe" />
+        <option value="$PROJECT_DIR$/src/main/java/com/me/spring/firstpackage/MemberType.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/me/spring/_1sttrainingpackage/MemberType.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/me/spring/beanscopes/ReadMe" />
+        <option value="$PROJECT_DIR$/src/main/java/com/me/spring/_6th_beanlifecycle/MemberService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/me/spring/_4th_beaninitstrategy/Animal.java" />
       </list>
     </option>
   </component>
@@ -173,12 +219,14 @@
     <option name="width" value="1293" />
     <option name="height" value="767" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -219,19 +267,19 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="spring" type="462c0819:PsiDirectoryNode" />
-              <item name="beanlifecycle" type="462c0819:PsiDirectoryNode" />
+              <item name="_1st_annotations" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554710272344" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554711363485" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -248,12 +296,12 @@
     </option>
   </component>
   <component name="RunManager" selected="Application.Main (5)">
-    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.me.spring.beanscopes.Main" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.me.spring._2nd_beanscopes.Main" />
       <module name="springdemo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.me.spring.beanscopes.*" />
+          <option name="PATTERN" value="com.me.spring._2nd_beanscopes.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -261,12 +309,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.me.spring.beanoverloading.Main" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.me.spring._3rd_beanoverloading.Main" />
       <module name="springdemo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.me.spring.beanoverloading.*" />
+          <option name="PATTERN" value="com.me.spring._3rd_beanoverloading.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -274,12 +322,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.me.spring.beaninitstrategy.Main" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.me.spring._4th_beaninitstrategy.Main" />
       <module name="springdemo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.me.spring.beaninitstrategy.*" />
+          <option name="PATTERN" value="com.me.spring._4th_beaninitstrategy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -287,12 +335,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.me.spring.beaninheritence.Main" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.me.spring._5th_beaninheritence.Main" />
       <module name="springdemo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.me.spring.beaninheritence.*" />
+          <option name="PATTERN" value="com.me.spring._5th_beaninheritence.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -300,12 +348,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.me.spring.beanlifecycle.Main" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.me.spring._6th_beanlifecycle.Main" />
       <module name="springdemo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.me.spring.beanlifecycle.*" />
+          <option name="PATTERN" value="com.me.spring._6th_beanlifecycle.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -336,17 +384,18 @@
       <workItem from="1554619650701" duration="5434000" />
       <workItem from="1554629540664" duration="7748000" />
       <workItem from="1554698930707" duration="6758000" />
+      <workItem from="1554710911051" duration="451000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19940000" />
+    <option name="totallyTimeSpent" value="20391000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-5" y="0" width="1293" height="767" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24412003" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24817519" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -390,7 +439,7 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/me/spring/jjj.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/me/spring/beanoverloading/Member.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/me/spring/_3rd_beanoverloading/Member.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="391">
           <caret line="23" column="18" selection-start-line="23" selection-start-column="18" selection-end-line="23" selection-end-column="18" />
@@ -407,7 +456,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/me/spring/beanoverloading/ConfigB.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/me/spring/_3rd_beanoverloading/ConfigB.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="203">
           <caret line="14" column="48" selection-start-line="14" selection-start-column="48" selection-end-line="14" selection-end-column="48" />
@@ -417,7 +466,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/me/spring/beanoverloading/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/me/spring/_3rd_beanoverloading/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="15" column="111" lean-forward="true" selection-start-line="12" selection-start-column="2" selection-end-line="15" selection-end-column="111" />
@@ -427,24 +476,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/me/spring/beanscopes/MyMessage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/me/spring/beanscopes/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="57" selection-start-line="7" selection-start-column="57" selection-end-line="7" selection-end-column="57" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/me/spring/annotations/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/me/spring/_1st_annotations/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
           <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
@@ -454,27 +486,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/me/spring/annotations/MemberType.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/me/spring/beanscopes/Config.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="12" column="9" selection-start-line="11" selection-end-line="12" selection-end-column="31" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/me/spring/beanoverloading/ConfigA.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/me/spring/_3rd_beanoverloading/ConfigA.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
           <caret line="14" column="42" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="55" />
@@ -484,17 +496,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/me/spring/annotations/Member.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/me/spring/annotations/Config.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/me/spring/_1st_annotations/Config.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
           <caret line="10" column="8" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="28" />
@@ -504,73 +506,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/me/spring/beaninitstrategy/Animal.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="26" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="26" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#217#218#0" expanded="true" />
-            <element signature="e#277#278#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/me/spring/beaninitstrategy/Config.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="14" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="14" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/me/spring/beaninitstrategy/Human.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="4" lean-forward="true" selection-start-line="5" selection-end-line="6" selection-end-column="19" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/me/spring/beaninheritence/hhhh.fxml">
-      <provider editor-type-id="JavaFX-Scene-Builder" />
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="61" selection-start-line="10" selection-start-column="27" selection-end-line="10" selection-end-column="61" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/me/spring/beaninheritence/Child.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/me/spring/beaninheritence/hhhh.fxml" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/me/spring/_5th_beaninheritence/Child.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" column="18" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/me/spring/beaninitstrategy/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/me/spring/beaninheritence/spring.xml">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/me/spring/_5th_beaninheritence/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
-          <caret line="6" selection-start-line="6" selection-end-line="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/me/spring/beaninheritence/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
           <caret line="8" column="94" selection-start-line="8" selection-start-column="94" selection-end-line="8" selection-end-column="94" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -578,16 +524,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/me/spring/beaninheritence/spring.xml">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/me/spring/_5th_beaninheritence/Parent.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="32" selection-start-line="8" selection-start-column="32" selection-end-line="8" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/me/spring/beaninheritence/Parent.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="493">
+        <state relative-caret-position="357">
           <caret line="29" selection-start-line="29" selection-end-line="29" />
           <folding>
             <element signature="e#145#146#0" expanded="true" />
@@ -602,7 +541,51 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/me/spring/beanlifecycle/Config.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/me/spring/_6th_beanlifecycle/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/me/spring/_5th_beaninheritence/spring.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="32" selection-start-line="8" selection-start-column="32" selection-end-line="8" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/me/spring/_1st_annotations/ReadMe">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="29" selection-start-column="29" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/me/spring/_4th_beaninitstrategy/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/me/spring/_4th_beaninitstrategy/Human.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="4" lean-forward="true" selection-start-line="5" selection-end-line="6" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/me/spring/_4th_beaninitstrategy/Config.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
           <caret line="6" column="14" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="14" />
@@ -612,43 +595,91 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/me/spring/beanlifecycle/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/me/spring/_1st_annotations/Member.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        <state relative-caret-position="85">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/me/spring/beanlifecycle/Member.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/me/spring/_1st_annotations/MemberType.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/me/spring/_2nd_beanscopes/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="57" selection-start-line="7" selection-start-column="57" selection-end-line="7" selection-end-column="57" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/me/spring/_2nd_beanscopes/MyMessage.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
-          <caret line="4" column="10" selection-start-line="4" selection-start-column="10" selection-end-line="4" selection-end-column="10" />
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/me/spring/_2nd_beanscopes/Config.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="9" selection-start-line="11" selection-end-line="12" selection-end-column="31" />
           <folding>
-            <element signature="e#141#142#0" expanded="true" />
-            <element signature="e#168#169#0" expanded="true" />
-            <element signature="e#208#209#0" expanded="true" />
-            <element signature="e#240#241#0" expanded="true" />
-            <element signature="e#273#274#0" expanded="true" />
-            <element signature="e#302#303#0" expanded="true" />
-            <element signature="e#346#347#0" expanded="true" />
-            <element signature="e#382#383#0" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/me/spring/beanlifecycle/MemberService.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/me/spring/_2nd_beanscopes/ReadMe">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/me/spring/_6th_beanlifecycle/Config.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="196">
-          <caret line="28" column="62" selection-start-line="28" selection-start-column="57" selection-end-line="28" selection-end-column="62" />
+        <state relative-caret-position="102">
+          <caret line="6" column="14" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="14" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#197#198#0" expanded="true" />
-            <element signature="e#233#234#0" expanded="true" />
-            <element signature="e#674#675#0" expanded="true" />
-            <element signature="e#691#692#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/me/spring/_6th_beanlifecycle/Member.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="10" selection-start-line="4" selection-start-column="10" selection-end-line="4" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/me/spring/_6th_beanlifecycle/MemberService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="337">
+          <caret line="24" column="25" selection-start-line="24" selection-start-column="25" selection-end-line="24" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/me/spring/_4th_beaninitstrategy/Animal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="34" selection-start-line="9" selection-start-column="28" selection-end-line="9" selection-end-column="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#217#218#0" expanded="true" />
+            <element signature="e#277#278#0" expanded="true" />
           </folding>
         </state>
       </provider>

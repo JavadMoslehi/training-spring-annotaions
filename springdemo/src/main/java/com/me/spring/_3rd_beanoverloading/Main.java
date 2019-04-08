@@ -1,4 +1,4 @@
-package com.me.spring.beanoverloading;
+package com.me.spring._3rd_beanoverloading;
 
 import org.springframework.context.ApplicationContext;
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;

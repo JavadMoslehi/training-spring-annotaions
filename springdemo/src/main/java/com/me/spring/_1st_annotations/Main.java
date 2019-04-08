@@ -1,4 +1,4 @@
-package com.me.spring.annotations;
+package com.me.spring._1st_annotations;
 
 import org.springframework.context.ApplicationContext;
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;

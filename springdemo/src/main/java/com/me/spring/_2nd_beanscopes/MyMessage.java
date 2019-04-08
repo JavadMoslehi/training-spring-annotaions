@@ -1,6 +1,4 @@
-package com.me.spring.beanscopes;
-
-import org.springframework.stereotype.Component;
+package com.me.spring._2nd_beanscopes;
 
 public class MyMessage {
     private String message;

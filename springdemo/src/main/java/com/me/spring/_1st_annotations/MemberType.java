@@ -1,6 +1,5 @@
-package com.me.spring.annotations;
+package com.me.spring._1st_annotations;
 
-import org.springframework.beans.factory.annotation.Qualifier;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.stereotype.Component;
 

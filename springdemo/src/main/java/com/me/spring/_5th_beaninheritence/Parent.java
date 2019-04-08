@@ -1,4 +1,4 @@
-package com.me.spring.beaninheritence;
+package com.me.spring._5th_beaninheritence;
 
 public class Parent {
     private String name;

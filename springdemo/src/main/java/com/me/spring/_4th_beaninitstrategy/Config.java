@@ -1,4 +1,4 @@
-package com.me.spring.beanlifecycle;
+package com.me.spring._4th_beaninitstrategy;
 
 import org.springframework.context.annotation.ComponentScan;
 import org.springframework.context.annotation.Configuration;

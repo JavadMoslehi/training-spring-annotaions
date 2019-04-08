@@ -1,4 +1,4 @@
-package com.me.spring.beaninitstrategy;
+package com.me.spring._4th_beaninitstrategy;
 
 import org.springframework.context.ApplicationContext;
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;

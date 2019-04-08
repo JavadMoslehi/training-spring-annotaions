@@ -1,7 +1,6 @@
-package com.me.spring.beaninheritence;
+package com.me.spring._5th_beaninheritence;
 
 import org.springframework.context.ApplicationContext;
-import org.springframework.context.*;
 import org.springframework.context.support.ClassPathXmlApplicationContext;
 
 public class Main {

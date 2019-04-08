@@ -1,4 +1,4 @@
-package com.me.spring.beanlifecycle;
+package com.me.spring._6th_beanlifecycle;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;

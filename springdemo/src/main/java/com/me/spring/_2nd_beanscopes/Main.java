@@ -1,4 +1,4 @@
-package com.me.spring.beanscopes;
+package com.me.spring._2nd_beanscopes;
 
 import org.springframework.context.ApplicationContext;
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;

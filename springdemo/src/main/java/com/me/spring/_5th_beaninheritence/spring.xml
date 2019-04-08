@@ -4,10 +4,10 @@
        xsi:schemaLocation=  "http://www.springframework.org/schema/beans
                             http://www.springframework.org/schema/beans/spring-beans.xsd">
 
-    <bean id="parentid" class="com.me.spring.beaninheritence.Parent">
+    <bean id="parentid" class="com.me.spring._5th_beaninheritence.Parent">
         <property name="name" value="parentName"/>
         <property name="behavior" value="behaviorName"/>
     </bean>
-    <bean id="childid" class="com.me.spring.beaninheritence.Child" parent="parentid"/>
+    <bean id="childid" class="com.me.spring._5th_beaninheritence.Child" parent="parentid"/>
 
 </beans>

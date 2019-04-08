@@ -1,4 +1,4 @@
-package com.me.spring.beanlifecycle;
+package com.me.spring._6th_beanlifecycle;
 
 import org.springframework.context.ApplicationContext;
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
