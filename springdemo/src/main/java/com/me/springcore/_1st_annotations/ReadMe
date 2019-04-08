@@ -1,0 +1,35 @@
+Spring Core Annotations:
+	@Configuration:
+		If this annotation will be putted on top of a class, determines that its class is configuration class.	
+	
+	@Component
+		This annotation will be putted on top of classes which programmer want to give over object initializing and its management to spring container.
+		
+	@ComponentScan(basePackages = "com.me")
+		This annotation will be putted on top of a Configuration class and determines that configuration class where search for components	
+	
+	========================================================================================
+	@Bean(name = "optionalName")
+		It is 2 ways for defining beans for container,
+			1st way is using @Component annotation
+			2nd way is using @Bean annotation on top of own defined method that on it a new object make
+    @Scope(value = "singleton")
+		This annotation tells to spring container any times that programmer want new object, container must give same primary object, no more.
+		For getting another object from current type, must make another container with new key word.
+	@Scope(value = "prototype")
+		This annotation tells to spring container any times that programmer want new object, you make new object without making new container.
+	========================================================================================	
+	@Autowired
+	@Qualifier(value = "")
+	@Value(value = "")
+	=========================================================================================
+	Lazy and Eager Strategy bean:
+		This strategy tells to spring container when creating object, in start upping project or any time programmer require?
+		@Lazy:
+			It is annotation for describing bean producing to spring container. This annotation uses for spring components that determines with @Component
+			on top of them
+		@Lazy(value = false):
+			This is default state for this annotation, and tells to spring container that start upping time, make all beans
+		@Lazy(value = true):
+			If value set true, spring container will not make bean, till programmer want
+	========================================================================================
