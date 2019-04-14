@@ -1,11 +1,15 @@
-package com.me.springdata;
+package com.me.springdatawithhibernate.repository;
 
 import org.hibernate.cfg.Environment;
 import org.hibernate.jpa.HibernatePersistenceProvider;
+import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.annotation.Bean;
 import org.springframework.jdbc.datasource.DriverManagerDataSource;
+import org.springframework.orm.jpa.JpaTransactionManager;
 import org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean;
+import org.springframework.transaction.PlatformTransactionManager;
 
+import javax.persistence.EntityManagerFactory;
 import javax.sql.DataSource;
 import java.util.Properties;
 
@@ -27,13 +31,22 @@ public class JPAConfig {
         hibernateProperties.setProperty(Environment.SHOW_SQL, "true");//hibernateProperties.setProperty("hibernate.show_sql", "true");
         return hibernateProperties;
     }
-
+    @Bean
     public LocalContainerEntityManagerFactoryBean getLocalContainerEntityManagerFactoryBean() {
         LocalContainerEntityManagerFactoryBean factoryBean = new LocalContainerEntityManagerFactoryBean();
         factoryBean.setPersistenceProviderClass(HibernatePersistenceProvider.class);
         factoryBean.setDataSource(getDataSource());
-        factoryBean.setPackagesToScan("com.me.springdata");
+        factoryBean.setPackagesToScan("com.me.springdatawithhibernate");
+        factoryBean.setJpaProperties(getHibernateProperties());
         return factoryBean;
+    }
+
+    @Bean
+    @Autowired
+    public PlatformTransactionManager getPlatformTransactionManager(EntityManagerFactory entityManagerFactory) {
+        JpaTransactionManager jpaTransactionManager = new JpaTransactionManager();
+        jpaTransactionManager.setEntityManagerFactory(entityManagerFactory);
+        return jpaTransactionManager;
     }
 
 

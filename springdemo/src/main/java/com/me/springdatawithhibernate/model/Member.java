@@ -1,4 +1,4 @@
-package com.me.springdata;
+package com.me.springdatawithhibernate.model;
 
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;

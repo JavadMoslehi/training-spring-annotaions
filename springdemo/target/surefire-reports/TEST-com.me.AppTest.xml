@@ -6,7 +6,7 @@
     <property name="java.vm.version" value="25.172-b11"/>
     <property name="user.country.format" value="IR"/>
     <property name="java.vm.vendor" value="Oracle Corporation"/>
-    <property name="maven.multiModuleProjectDirectory" value="C:\Users\j.moslehi\IdeaProjects\springdemo"/>
+    <property name="maven.multiModuleProjectDirectory" value="E:\About Github\training spring annotaions\training-spring-annotaions\springdemo"/>
     <property name="java.vendor.url" value="http://java.oracle.com/"/>
     <property name="path.separator" value=";"/>
     <property name="guice.disable.misplaced.annotation.check" value="true"/>
@@ -17,7 +17,7 @@
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="sun.os.patch.level" value=""/>
     <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
-    <property name="user.dir" value="C:\Users\j.moslehi\IdeaProjects\springdemo"/>
+    <property name="user.dir" value="E:\About Github\training spring annotaions\training-spring-annotaions\springdemo"/>
     <property name="java.runtime.version" value="1.8.0_172-b11"/>
     <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
     <property name="java.endorsed.dirs" value="C:\Program Files\Java\jre1.8.0_172\lib\endorsed"/>
